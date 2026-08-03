@@ -4,6 +4,10 @@ A Natural Language Processing (NLP) project that performs sentiment analysis on 
 
 ---
 
+## 🚀 Try the Demo
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mazen-Ghazy/BERT-Sentiment-Analysis/blob/main/Demo.ipynb)
+
 # 📌 Project Overview
 
 This project explores different approaches for sentiment analysis on the IMDb movie reviews dataset.
